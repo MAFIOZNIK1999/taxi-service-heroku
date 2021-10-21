@@ -1,4 +1,4 @@
-# Short description
+# Description
 Taxi service is my first project to show my skills in Java, OOP and SOLID principles, JDBC, Web. In this web application you can add new manufacturers and cars to the database. Other then key CRUD operations there are other features like adding driver to a car and showing a list of cars for currently logged in driver.
 
 # Technologies
